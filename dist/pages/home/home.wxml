@@ -1,0 +1,3 @@
+<view>
+  <rich-parse rich="{{ rich }}" maxLayer="3"/>
+</view>

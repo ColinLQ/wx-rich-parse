@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/home/home"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#EE8AB7",
+    "navigationBarTitleText": "wx-rich-parse",
+    "navigationBarTextStyle": "white"
+  }
+}

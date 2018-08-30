@@ -1,0 +1,5 @@
+<view style="padding: {{ padding }}">
+  <block wx:for="{{ content.nodes }}" wx:key="{{ item.index }}">
+    <rich-view item="{{ item }}" content="{{ content }}" maxLayer="{{ maxLayer }}" />
+  </block>
+</view>

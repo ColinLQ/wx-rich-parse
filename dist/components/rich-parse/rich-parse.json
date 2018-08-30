@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "image-loader": "./image-loader/image-loader",
+    "rich-view": "./rich-view/rich-view"
+  }
+}
